@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey gang! 👋
 
 <!--
 **hen-ro/hen-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Henry! My pronouns are he/they. I'm a current Tech 
+Elevator student learning full-stack development in JavaScript. I've 
+previously worked in Python and C#.
+
+- 💬 If you don't want to talk about programming, ask me about:
+D&D/other TTRPGs, fantasy RPGs (Baldur's Gate, Dragon Age, etc.),
+chess, theatre, or what book I've currently reading.
+- 📫 How to reach me: I'm @henry_rose on Discord or connect with me on LinkedIn!
