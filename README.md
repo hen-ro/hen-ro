@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Henry! My pronouns are he/they. I'm a current Tech 
-Elevator student learning full-stack development in JavaScript. I've 
+I'm Henry! My pronouns are he/they. I'm a recent Tech 
+Elevator graduate where I studied full-stack development in Java. I've 
 previously worked in Python and C#.
 
 - 💬 If you don't want to talk about programming, ask me about:
